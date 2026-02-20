@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+
+/* Add spacing between each section */
+div {
+    margin-bottom: 15px;
+}
+
+/* Add border to clearly see layout */
+[data-ns-test] {
+    border: 1px solid black;
+    padding: 5px;
+    margin: 2px;
+}
